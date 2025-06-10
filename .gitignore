@@ -1,0 +1,44 @@
+# Gradle
+.gradle/
+.gradle/**/*.bin
+.gradle/**/*.lock
+build/
+build/**/*.bin
+build/**/*.lock
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled files
+*.class
+bin/
+out/
+*.bin
+
+# Lock files
+*.lockfiles
+
+# Package files
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+.gradle/6.7/executionHistory/executionHistory.bin
+.gradle/6.7/executionHistory/executionHistory.lock
+.gradle/6.7/fileHashes/fileHashes.bin
+.gradle/6.7/fileHashes/fileHashes.lock
+.gradle/6.7/fileHashes/resourceHashesCache.bin
+.gradle/6.7/javaCompile/classAnalysis.bin
+.gradle/6.7/javaCompile/jarAnalysis.bin
+.gradle/6.7/javaCompile/javaCompile.lock
+.gradle/6.7/javaCompile/taskHistory.bin
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/buildOutputCleanup/outputFiles.bin
